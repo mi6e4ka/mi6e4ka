@@ -1,4 +1,4 @@
-### Hi there 👋
+### ✨ А что, так можно было? ✨
 
 <!--
 **mi6e4ka/mi6e4ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
