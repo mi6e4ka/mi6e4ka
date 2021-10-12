@@ -1,9 +1,10 @@
 ### ✨ Привет, я Михаил и я начинающий web разработчик. ✨
-- 🔭Сейчас я работаю на проектом "WebOS" 🔭
+- 🔭Сейчас я работаю на проектом "mi6e4ka.ml" 🔭
 - 🌱Изучаю создание приложений на android🌱
 - ⚡Забросил 2 игровых проекта⚡
 - 💬Знаю 3 языка программирования (php, js, python), а также 1 изучаю (kotlin)💬  
 **[10.10.2021]** Забросил WebOS *[АРХИВ]*
+**[11.10.2021]** Начал разработку сайта [mi6e4ka.ml](https://mi6e4ka.ml)
 <!--
 **mi6e4ka/mi6e4ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
