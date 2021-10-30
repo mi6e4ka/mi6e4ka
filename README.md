@@ -6,7 +6,8 @@
 **[10.10.2021]** Забросил WebOS *[АРХИВ]*  
 **[11.10.2021]** Начал разработку сайта [mi6e4ka.ml](https://mi6e4ka.ml)  
 **[19.10.2021]** Начал разработку проекта [BetterRoute](https://nedovoza.net)  
-**[19.10.2021]** Начал разработку сайта [L-NET](https://l-net.tk)  
+**[22.10.2021]** BETA версия [BetterRoute](https://nedovoza.net), презентация проекта  
+**[30.10.2021]** Начал разработку сайта [L-NET](https://l-net.tk)  
 <!--
 **mi6e4ka/mi6e4ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
