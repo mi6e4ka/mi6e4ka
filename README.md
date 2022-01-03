@@ -7,7 +7,8 @@
 **[11.10.2021]** Начал разработку сайта [mi6e4ka.ml](https://mi6e4ka.ml)  
 **[19.10.2021]** Начал разработку проекта [BetterRoute](https://nedovoza.net)  
 **[22.10.2021]** BETA версия [BetterRoute](https://nedovoza.net), презентация проекта  
-**[30.10.2021]** Начал разработку сайта [L-NET](https://l-net.tk)  
+**[30.10.2021]** Начал разработку проекта [L-NET](https://l-net.tk)  
+**[03.01.2022]** Продолжил разработку проекта [L-NET](https://l-net.tk) после 2х месяцев перерыва  
 <!--
 **mi6e4ka/mi6e4ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
