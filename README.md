@@ -9,6 +9,7 @@
 **[22.10.2021]** BETA версия [BetterRoute](https://nedovoza.net), презентация проекта  
 **[30.10.2021]** Начал разработку проекта [L-NET](https://l-net.tk)  
 **[03.01.2022]** Продолжил разработку проекта [L-NET](https://l-net.tk) после 2х месяцев перерыва  
+**[11.01.2022]** Начат перевод сервера на микросервисную архитектуру на основе docker  
 <!--
 **mi6e4ka/mi6e4ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
