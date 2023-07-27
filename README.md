@@ -10,19 +10,12 @@
 **[22.10.2021]** BETA версия [BetterRoute](https://nedovoza.net), презентация проекта  
 **[30.10.2021]** Начал разработку проекта [L-NET](https://l-net.tk)  
 **[03.01.2022]** Продолжил разработку проекта [L-NET](https://l-net.tk) после 2х месяцев перерыва  
-**[11.01.2022]** Начат перевод сервера на микросервисную архитектуру на основе docker  
-
-**mi6e4ka/mi6e4ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**[11.01.2022]** Начат перевод сервера на микросервисную архитектуру на основе docker 
+**[27.07.2023]** Половина информации отсюда давно не актуальна, кто вообще заглядывает в README.md код?
+[ ДАННЫЕ УДАЛЕННЫ ]
 -->
-Hello world
+- SmartTiming
+- BDOS
+- Sklad.Contact
+- QR Receipts (Untitled)
+- RZD Monitor
