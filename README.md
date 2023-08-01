@@ -19,3 +19,4 @@
 - Sklad.Contact
 - QR Receipts (Untitled)
 - RZD Monitor
+- mi6e4ka.dev
