@@ -16,7 +16,7 @@
 -->
 
 <pre>
-GET /index.php HTTP/1.1
+GET /mi6e4ka HTTP/1.1
 Host: github.com
 
 HTTP/1.1 301 Moved Permanently 
