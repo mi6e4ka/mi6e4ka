@@ -14,6 +14,14 @@
 **[27.07.2023]** Половина информации отсюда давно не актуальна, кто вообще заглядывает в README.md код?
 [ ДАННЫЕ УДАЛЕННЫ ]
 -->
+
+<pre>
+GET /index.php HTTP/1.1
+Host: github.com
+
+HTTP/1.1 301 Moved Permanently 
+Location: <a href="https://git.mi6e4ka.dev/mi6e4ka/">selfhosted git</a></pre>
+
 - SmartTiming
 - BDOS
 - Sklad.Contact
